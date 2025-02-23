@@ -25,9 +25,7 @@ public class ZooManagement {
         Dauphin myDauphin = new Dauphin("dauphin","7outa",3,false,"ocean",50);
         myDauphin.swim();
         myPenguin.swim();
-        myPenguin.eat();
         Serpent hnash = new Serpent("zawehef","hanshoun",70,true,0,10);
-        System.out.println(hnash);
     }
 
 }
